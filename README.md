@@ -69,6 +69,6 @@ This manual testing project for SecureBank has successfully validated the platfo
 
 ## Test Report Summary
 
-![SecureBank Test Image]([https://drive.google.com/uc?id=1jmW2DDJ7o5DdMslVYbFrv0yHG21jrjIm](https://drive.google.com/drive/folders/1wKrImT5HvOdxmecMrgZfNY3pslMXGkTS?dmr=1&ec=wgc-drive-globalnav-goto))
+![SecureBank Test Image](https://github.com/SanathSaha/Manual_testing_Project/blob/fc9b4ea054887ed60c1847601c73b48cd583e81f/Test%20Case%20Summary.png)
 
 <img src="https://github.com/SanathSaha/Manual_testing_Project/blob/f5baffe8b5799d2cc63505d5e74f4a78c88a8ccb/Test%20Case%20Summary%20Piechart.png"/>
