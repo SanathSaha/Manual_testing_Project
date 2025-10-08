@@ -69,6 +69,6 @@ This manual testing project for SecureBank has successfully validated the platfo
 
 ## Test Report Summary
 
-![SecureBank Test Image](https://drive.google.com/uc?id=1jmW2DDJ7o5DdMslVYbFrv0yHG21jrjIm)
+![SecureBank Test Image]([https://drive.google.com/uc?id=1jmW2DDJ7o5DdMslVYbFrv0yHG21jrjIm](https://drive.google.com/drive/folders/1wKrImT5HvOdxmecMrgZfNY3pslMXGkTS?dmr=1&ec=wgc-drive-globalnav-goto))
 
-<img src="https://drive.google.com/uc?id=1Vk7w84RBuLYz6KOwFqZaW0XP8rtsJXyG" alt="SecureBank Test Image_Graph" width="500"/>
+<img src="[https://drive.google.com/uc?id=1Vk7w84RBuLYz6KOwFqZaW0XP8rtsJXyG" alt="SecureBank Test Image_Graph" width="500](https://drive.google.com/drive/folders/1wKrImT5HvOdxmecMrgZfNY3pslMXGkTS?dmr=1&ec=wgc-drive-globalnav-goto)"/>
