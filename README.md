@@ -17,6 +17,8 @@ The manual testing process covered various aspects of the SecureBank platform, f
 
 ### Test Case Writing
 - Created detailed test cases covering various modules of the **SecureBank** application.
+  
+  ![Test Case Image](https://github.com/SanathSaha/Manual_testing_Project/blob/67f55dfffa81eb42d8545738ef6bf875dc49f029/Test%20Case.png)
 
 ### Test Plan Creation
 - Developed a structured **test plan** outlining:
